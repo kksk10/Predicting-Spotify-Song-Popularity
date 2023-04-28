@@ -1,4 +1,4 @@
-# My Team is as follows:
+# Project Contributors:
 
 Carolina Lin Hou
 Diego Morillo
